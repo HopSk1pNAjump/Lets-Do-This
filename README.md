@@ -1,2 +1,2 @@
 # Hello-World
-Just a shot pretty simple
+Just a shot at this new thing, pretty simple
